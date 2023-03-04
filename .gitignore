@@ -7,7 +7,7 @@
 /.pnp
 .pnp.js
 /server/node_modules
-/server/dist/
+/server/dist
 # testing
 /coverage
 
